@@ -1,8 +1,8 @@
-﻿Name,Walking_time(mins),Dietary_Requirements,Max_budget(price_level),Min_rating,Max_rating,Favourite_food
-Clare,20,Vegan,1,3.5,4.2,Sandwich
-Harry,15,None,2,2.5,3.9,Sandwiches/Burritos
-Galen,17,None,5,4.2,4.5,Brunch
-Jeremy,12,None,4,4.1,5,Thai
-Simon,10,Kosher,3,3.6,4.5,Salad
-Luke,25,Vegetarian,3,2.1,4.8,American
-Diana,20,None,3,1,5,Sushi
+﻿Name,Walking_time(mins),Favourite_food
+Clare,20,Sandwich
+Harry,15,Sandwiches/Burritos
+Galen,17,Brunch
+Jeremy,12,Thai
+Simon,10,Salad
+Luke,25,American
+Diana,20,Sushi
